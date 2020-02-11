@@ -1,0 +1,97 @@
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p,
+form, input, div {
+  margin: 0;
+  padding: 0;
+}
+.information a{
+    font-family: "Times new roman";
+        
+    
+
+    margin-top: 10px;
+  margin-bottom: 30px;
+    height:30px;
+    font-size: 40px;
+    float:right;
+
+  color:gold;
+   
+  margin: 0 auto;
+}
+.top-section-contents ul {
+   float:left;
+    padding: 33px 20px;
+  }
+  .top-section {
+    float: left;
+    font-size: 36px;
+    padding: 20px 60px;
+  }
+ .information{
+   
+  background-color:blue;
+  color: rgb(81, 248, 3);
+  height: 130px;
+ }
+ .information button:hover{
+     background-color: darkblue;
+
+ }
+ 
+ .main h1 {
+    font-size: 100px;
+  }
+  
+  .main h2 {
+    font-size: 60px;
+  }
+  .main h3{
+    font-size: 60px;
+    border-bottom: 2px solid black;
+
+  }
+  .main button{
+    font-style:"Times new roman";
+    height:80px;
+   background-color:green;
+   color:black;
+    font-size: 50px;
+  }
+  .main button:hover{
+    background-color:blueviolet;
+  }
+  
+  .footer {
+    background-color:greenyellow;
+    color:black;
+    height: 250px;
+    padding: 40px;
+  }
+  
+  .footer-logo {
+    float: left;
+    font-size: 32px;
+  }
+  
+  .footer-list {
+    float: right;
+  }
+  
+  
+  .footer-list ul{
+    font-size: 20px;
+   
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+  
+  }
+  .main a{
+    font-size:40px;
+  }
+  .guestbutton{
+    font-size:40px;
+  }
+  
